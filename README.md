@@ -14,4 +14,7 @@ El archivo ***index.html*** esta estructurado con una lista ordenada que va cont
 ## Pull Request:
 En la realización de un Pull Request deben seleccionar su rama para juntarla con la **main** y marcar como revisor a **JPCT**.
 
+## Poner imagenes en el documento:
+Para poner imágenes en el documento pueden seguir [estos pasos](https://www.seoysocialmedia.com/2019/09/como-obtener-la-url-de-una-foto-de.html) y ya poner la imagen con el enlace en HTML.
+
 ## Pueden ver el resultado parcial del documento [aquí](https://lucasucaldas.github.io/auditoria/).
